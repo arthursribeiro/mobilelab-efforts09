@@ -1,0 +1,13 @@
+#summary TODO stuff for the first MileStone
+
+== TODO ==
+
+  # Criar um Canvas (appuifw.Canvas())
+  # Colocar bolinha (blit ou desenhando)
+  # Fazer bolinha andar a partir das teclas do teclado
+     * Basear no ball.py do emulador
+
+
+== FEITO ==
+
+  # Instalar Python no device ^^
